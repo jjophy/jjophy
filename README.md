@@ -4,7 +4,7 @@
 
 👀 I was an outreach student  at IIIT Hyderabad, India, having recently completed PG certification in Software Engineering for Data Sciences
 
-🌱 I am having 16 years of experience in the IT industry in the applications delivery area, as technical lead and project manager
+🌱 I'm currently working on different projects to enhance my knowledge and experience in machine learning 
 
 💞️ Currently am very interested in data science and machine learning and am looking for a suitable role
 
