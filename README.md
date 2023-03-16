@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Jophy Joseph jjophy@gmail.com
 
-👀 Have recently completed Post Graduate certificate program  in Software Engineering for Data Sciences
+👀 Have recently completed Post Graduate certificate program  in Software Engineering for Data Sciences, from IIIT, Hyderabad
 
 🌱 I'm currently working on different projects to enhance my knowledge and experience in machine learning 
 
