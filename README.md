@@ -2,11 +2,13 @@
 
 👋 Hi, I’m Jophy Joseph jjophy@gmail.com
 
-👀 I was an outreach student  at IIIT Hyderabad, India, having recently completed PG certification in Software Engineering for Data Sciences
+👀 Have recently completed Post Graduate certificate program  in Software Engineering for Data Sciences
 
 🌱 I'm currently working on different projects to enhance my knowledge and experience in machine learning 
 
-💞️ Currently am very interested in data science and machine learning and am looking for a suitable role
+💞️ Have 16 years experience in IT industry, having worked primarily in Lead Engineer roles
+
+🤔 I’m looking fascinated by Data Sciences and loking for a suitable role in this field
 
 <!--
 **jjophy/jjophy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
